@@ -54,7 +54,7 @@
 		#contact {
 			float: right;
 			padding: 20px;
-			margin-right: 300px;
+			margin-right: 335px;
 			color: #777777;
 		}
 
@@ -122,10 +122,10 @@
 		}
 
 		#connect {
-			width: 300px;
-			height: 200px;
+			width: 270px;
+			height: 185px;
 			position: absolute;
-			left:850px;
+			left:810px;
 			top:120px;
 			background-color: white;
 			color: #4aaaa5;
@@ -141,31 +141,32 @@
 			margin-left: 30px;
 			height: 20px;
 			padding-bottom: 20px;
+			font-size: 20px;
 
 
 		}
 		
 		#git {
-			width: 80px;
-			height: 80px;
+			width: 70px;
+			height: 70px;
 			position: absolute;
-			left: 30px;
+			left: 28px;
 		}
 
 
 
 		#linked {
-			width: 80px;
-			height: 80px;
+			width: 70px;
+			height: 70px;
 			position: absolute;
-			left: 112px;
+			left: 101px;
 
 		}
 
 
 		#stack {
-			width: 73px;
-			height: 72px;
+			width: 63px;
+			height: 63px;
 			position: absolute;
 			right: 30px;
 			margin-top: 4px;
